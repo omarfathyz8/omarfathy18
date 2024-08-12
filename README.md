@@ -28,7 +28,7 @@ As an Embedded Systems Enthusiast, I thrive on unraveling the complexities of ha
 
 Here are some projects I've worked on:
 
-- **SMART Garage**: Created a smart garage with a Smart door, Smart lighting system, fire alarm system, and number of available parking slots using Arduino.
+- **SMART Garage**: Created a smart garage with a Smart door, Smart lighting system, fire alarm system, and the number of available parking slots using Arduino.
 - **Autonomous Car**: Created an Autonomous car controlled (line-follower – shooting mechanism – gate communication) using Arduino.
 - **Remote controlled Car**: Created a Remote controlled car using Arduino.
 - **Vending machine software**: Created a Vending machine software using C++.
@@ -39,5 +39,4 @@ Here are some projects I've worked on:
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 ### 🔗 Connect with Me
-<a href="https://linkedin.com/in/omar-fathy-" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Fathy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-
+<a href="https://linkedin.com/in/omar-fathyy" target="_blank"><img src="https://img.shields.io/badge/-Omar%20Fathy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
