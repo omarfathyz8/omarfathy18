@@ -7,13 +7,12 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Systems%20enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=08EEEE&vCenter=true&size=22"></a>
 </p> 
 
-I'm Omar Fathy, a Mechatronics Engineering student based in Cairo, Egypt. I'm passionate about 
-robotics, automation, and the integration of mechanical, electronic, and software systems.
+As an Embedded Systems Enthusiast, I thrive on unraveling the complexities of hardware-software interactions. My journey began with a passion for programming in Python and C/C++. I’ve since delved into the fascinating world of embedded systems, with a good foundation in data structures and algorithms.
 
 ## About Me
 
 - 🎓 I am pursuing a degree in Mechatronics Engineering at Ain Shams University.
-- 💼 I’m currently working on various projects involving robotics and automation and embedded systems.
+- 💼 I’m currently working on various projects involving robotics, automation, and embedded systems.
 - 🌱 I’m currently learning Embedded systems and AI integration for robotics and automation.
 - 👯 I’m looking to collaborate on innovative embedded systems projects and research.
 - 🤔 I’m looking for help with mastering AI applications in mechatronics.
@@ -29,9 +28,9 @@ robotics, automation, and the integration of mechanical, electronic, and softwar
 
 Here are some projects I've worked on:
 
-- **SMART Garage**: Created a smart garage with Smart door, Smart lighting system, fire alarm system, number of available parking slots using Arduino.
+- **SMART Garage**: Created a smart garage with a Smart door, Smart lighting system, fire alarm system, and number of available parking slots using Arduino.
 - **Autonomous Car**: Created an Autonomous car controlled (line-follower – shooting mechanism – gate communication) using Arduino.
-- **Remote controled Car**: Created a Remote controled car using Arduino.
+- **Remote controlled Car**: Created a Remote controlled car using Arduino.
 - **Vending machine software**: Created a Vending machine software using C++.
 - **Online Shopping Store Website**: Created an Online Shopping Store Website using Python.
 - **Course Registration Website**: Created a Course Registration Website using Python.
