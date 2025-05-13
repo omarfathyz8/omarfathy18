@@ -4,26 +4,69 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20and%20ML%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=08EEEE&vCenter=true&size=22"></a>
-</p> 
+  <img src="https://img.shields.io/badge/-Mechatronics Engineering-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Embedded Systems Engineer-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Machine Learning Engineer-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Freelancer-green?style=for-the-badge">
+</p>
 
-As an **Embedded Systems and Machine Learning Enthusiast**, I thrive on mastering hardware-software interactions and building intelligent solutions. My journey began with programming in Python and C/C++, leading to a passion for embedded systems and artificial intelligence. With a strong foundation in **data structures, algorithms, and machine learning**, I am driven to innovate and integrate smart solutions across various domains, always eager to tackle new challenges and drive impactful results.
+As a **Machine Learning** and **Embedded Systems** Enthusiast, I thrive on mastering the intersection of hardware, software, and intelligent systems. My journey began with programming in C/C++ and Python, leading to a passion for embedded systems, automation, and AI integration. With a strong foundation in data structures, algorithms, and mechatronics, I'm driven to develop smart, efficient solutions, always eager to tackle new challenges and create impactful innovations.
+
+---
 
 ## 📌 About Me
 
-- 🎓 I am pursuing a degree in **Mechatronics Engineering** at Ain Shams University.
-- 💼 I’m currently working on **various embedded systems and machine learning projects**.
-- 🌱 I’m learning **Embedded Systems, AI integration for robotics, and general machine learning applications**.
-- 👨‍🏫 I am a **Machine Learning Instructor at STP**, where I teach ML concepts and applications.
-- 👯 I’m looking to collaborate on **innovative embedded systems and AI-driven projects**.
-- 🤔 I’m looking for help with mastering **AI applications in mechatronics**.
+- 🎓 Pursuing a degree in **Mechatronics Engineering** at Ain Shams University.
+- 💼 Currently working on **various embedded systems and machine learning projects** as a freelancer.
+- 🌱 Learning **Embedded Systems, AI integration for robotics, and machine learning applications**.
+- 👨‍🏫 Worked as a **Machine Learning Instructor at STP**, where I taught ML concepts and applications to 30+ students.
+- 👯 Looking to collaborate on **innovative embedded systems and AI-driven projects**.
+- 🤔 Looking for help with mastering **AI applications in mechatronics**.
 
-## 🛠 My Skills
+---
 
-- **Programming Languages**: Python (Flask), C, C++, MATLAB, HTML, Java
-- **Machine Learning & AI**: Scikit-learn, TensorFlow, Data Preprocessing, Model Training, Supervised & Unsupervised Learning
-- **Mechanical Design**: Autodesk Inventor, AutoCAD, SolidWorks
-- **Embedded Systems**: Microcontrollers (Arduino, PIC18F4620, STM32F103C8), Peripherals, Drivers, ARM, Communication Protocols
+## 🛠️ Tech Stack
+
+### 🔹 Programming Languages  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML-0076A8?style=flat-square&logo=hmtl&logoColor=white">
+</p>
+
+### 🔹 AI & Machine Learning  
+<p align="left">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/-Scikit Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/streamlit-%23150458.svg?style=flat-square&logo=streamlit&logoColor=white">
+</p>
+
+### 🔹 Embedded Systems  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white">
+  <img src="https://img.shields.io/badge/-PIC18F4620-0B3D91?style=flat-square&logo=microchip&logoColor=white">
+  <img src="https://img.shields.io/badge/-ESP32-75AADB?style=flat-square&logo=espressif&logoColor=white">
+  <img src="https://img.shields.io/badge/-Microcontrollers-563D7C?style=flat-square&logo=raspberrypi&logoColor=white">
+</p>
+
+### 🔹 Mechanical Design  
+<p align="left">
+  <img src="https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white">
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-CC6600?style=flat-square&logo=autodesk&logoColor=white">
+  <img src="https://img.shields.io/badge/-AutoCAD-1572B6?style=flat-square&logo=autodesk&logoColor=white">
+  <img src="https://img.shields.io/badge/-ARM-0091BD?style=flat-square&logo=arm&logoColor=white" alt="ARM">
+</p>
+
+---
 
 ## 🚀 Projects
 
