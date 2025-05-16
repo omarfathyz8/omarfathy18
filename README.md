@@ -56,6 +56,7 @@ As a **Machine Learning** and **Embedded Systems** Enthusiast, I thrive on maste
   <img src="https://img.shields.io/badge/-PIC18F4620-0B3D91?style=flat-square&logo=microchip&logoColor=white">
   <img src="https://img.shields.io/badge/-ESP32-75AADB?style=flat-square&logo=espressif&logoColor=white">
   <img src="https://img.shields.io/badge/-Microcontrollers-563D7C?style=flat-square&logo=raspberrypi&logoColor=white">
+  <img src="https://img.shields.io/badge/-ARM-0091BD?style=flat-square&logo=arm&logoColor=white" alt="ARM">
 </p>
 
 ### 🔹 Mechanical Design  
@@ -63,7 +64,6 @@ As a **Machine Learning** and **Embedded Systems** Enthusiast, I thrive on maste
   <img src="https://img.shields.io/badge/-SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white">
   <img src="https://img.shields.io/badge/Autodesk%20Inventor-CC6600?style=flat-square&logo=autodesk&logoColor=white">
   <img src="https://img.shields.io/badge/-AutoCAD-1572B6?style=flat-square&logo=autodesk&logoColor=white">
-  <img src="https://img.shields.io/badge/-ARM-0091BD?style=flat-square&logo=arm&logoColor=white" alt="ARM">
 </p>
 
 ---
